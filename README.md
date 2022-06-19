@@ -13,3 +13,6 @@ stage-4_pytorch_lightning_trainer
 
 stage-5_training
 
+![image](https://user-images.githubusercontent.com/5722978/174465402-f9a7de9d-4e1b-41dc-bc69-6f4d52cd6187.png)
+
+
